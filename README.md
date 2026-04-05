@@ -100,3 +100,4 @@ plt.show()
 
 ## RESULT:
 Thus the maximum radar range was calculated using the Radar Range Equation in Python, and the variation of range with transmitted power, transmitter gain, and minimum detectable power was successfully analyzed and verified.
+<img width="1073" height="477" alt="image" src="https://github.com/user-attachments/assets/54641f3f-a570-46f9-93bb-bea89f8616f7" />
